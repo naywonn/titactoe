@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NON_GRADED_WORKSHOP_JAVASCRIPT.props" />
+</Project>
